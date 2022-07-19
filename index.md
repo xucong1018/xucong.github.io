@@ -1,13 +1,16 @@
----
-layout: default
-avatar: true
-permalink: /
----
----
+## <font face="微软雅黑" color=white size=5>Jiamin Chen</font>
+
+<div align=center> <img src="pic/photo.jpg" height="25%" width="25%"/>  </div>
+
+
+
 ## <font color="#5e33bf">About Me</font>
+***
 I have received the BS degree from [Central South University](https://www.csu.edu.cn/) in 2016. I am currently a graduate student in School of Computer Science and Engineering, Central South University, Changsha, Hunan, PR China. My main research interests include data mining, graph neural network, particularly deep learning in finance field.
 
-***
+Email: [congxu@csu.edu.cn](congxu@csu.edu.cn)
+
+
 ## <font color="#5e33bf">Educations</font>
 + **Central South University**\
   M.S. in Computer Science and Technology by postgraduate recommendation,from September 2020 to June 2023(Expected).
