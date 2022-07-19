@@ -5,7 +5,7 @@
 
 ## <font color="#5e33bf">About Me</font>
 ***
-I have received the BS degree from [Central South University](https://www.csu.edu.cn/) in 2016. I am currently a graduate student in School of Computer Science and Engineering, Central South University, Changsha, Hunan, PR China. My main research interests include data mining, graph neural network, particularly deep learning in finance field.
+I have received the BS degree from [Central South University](https://www.csu.edu.cn/) in 2016. I am currently a graduate student in School of Computer Science and Engineering, Central South University, advised by Prof. [Jianliang Gao](https://faculty.csu.edu.cn/gaojianliang/en/index.htm).  My research interests include Graph Representation Learning, Graph Neural Network, specifically Spatio-temporal Analysis.
 
 Email: [congxu@csu.edu.cn](congxu@csu.edu.cn)
 
