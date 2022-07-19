@@ -14,8 +14,10 @@ Email: [congxu@csu.edu.cn](congxu@csu.edu.cn)
 ***
 + **Central South University**\
   M.S. in Computer Science and Technology by postgraduate recommendation,from September 2020 to June 2023(Expected).
+  GPA : 3.7/4.0
 +  **Central South University**\
-B.S. in Data Science and Big Data Technology, from September 2016 to June 2020.
+  B.S. in Data Science and Big Data Technology, from September 2016 to June 2020.
+  GPA : 87/100
 
 
 ## <font color="#5e33bf">Research Interests</font>
