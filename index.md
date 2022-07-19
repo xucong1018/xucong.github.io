@@ -50,20 +50,20 @@ Email: [congxu@csu.edu.cn](congxu@csu.edu.cn)
 
 ##  <font color="#5e33bf">Honours</font>
 ***
--Second Prize of Citi Financial Innovation Application Competition
-2021, Citigroup.
+- Second Prize of Citi Financial Innovation Application Competition  
+  2021, Citigroup.
 
--Second Prize of National Academic Scholarship
-2021, Central South University.
+- Second Prize of National Academic Scholarship  
+  2021, Central South University.
 
--First Prize of National Academic Scholarship
-2020, Central South University.
+- First Prize of National Academic Scholarship  
+  2020, Central South University.
 
--First Prize of [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/index_en.html)
-2018, [China Society for Industrial and Applied Mathematics (CSIAM)](http://www.csiam.org.cn/).
+- First Prize of [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/index_en.html)  
+  2018, [China Society for Industrial and Applied Mathematics (CSIAM)](http://www.csiam.org.cn/).
 
--First Prize of Hunan Competition Area in Contemporary Undergraduate Mathematical Contest in Modeling
-2018, The Education Department of Hunan Province
+- First Prize of Hunan Competition Area in Contemporary Undergraduate Mathematical Contest in Modeling  
+  2018, The Education Department of Hunan Province
 
 
 ##  <font color="#5e33bf">Contact</font>
