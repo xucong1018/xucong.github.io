@@ -22,7 +22,7 @@ Email: [congxu@csu.edu.cn](congxu@csu.edu.cn)
 
 ## <font color="#5e33bf">Research Interests</font>
 ***
-+ Graph learning
++ Graph representation learning
 + Graph neural network
 + Spatio-temporal data mining.
 
@@ -35,15 +35,15 @@ Email: [congxu@csu.edu.cn](congxu@csu.edu.cn)
 
 ##  <font color="#5e33bf">Publications</font>
 ***
-[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522005928)] **Cong Xu**, Huiling Huang, Xiaoting Ying, Jianliang Gao, Zhao Li. HGNN: Hierarchical graph neural network for predicting the classification of price-limit-hitting stocks. Information Sciences. 2022. (<font color=blue>INS, JCR Q1/CCF B</font>) 
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522005928)] **Cong Xu**, Huiling Huang, Xiaoting Ying, Jianliang Gao, Zhao Li. HGNN: Hierarchical graph neural network for predicting the classification of price-limit-hitting stocks. Information Sciences. 2022. (<font color=blue>Inf. Sci, JCR Q1/CCF B</font>) 
 
-[[Paper](https://dl.acm.org/doi/10.1145/3340531.3412160)] Xiaoting Ying, **Cong Xu**, Jianliang Gao, Jianxin Wang, and Zhao Li. 2020. Time-aware Graph Relational Attention Network for Stock Recommendation. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management. (<font face="微软雅黑" color=blue>CIKM '20, CCF B</font>). 
-
-[[Paper](https://dl.acm.org/doi/10.1145/3498851.3499023)] Jianliang Gao, **Cong Xu**, Huiling Huang, Xiaoting Ying, Zhao Li. Predicting Price-Limit-Hitting Stocks with Hierarchical Graph Neural Network. In IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology. (<font face="微软雅黑" color=blue>WI-IAT '21, EI</font>)
+[[Paper](https://dl.acm.org/doi/10.1145/3340531.3412160)] Xiaoting Ying, **Cong Xu**, Jianliang Gao, Jianxin Wang, and Zhao Li. 2020. Time-aware Graph Relational Attention Network for Stock Recommendation. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management. (<font face="微软雅黑" color=blue>CIKM'20, CCF B</font>). 
 
 [[Paper](https://dl.acm.org/doi/10.1145/3451397)] Jianliang Gao, Xiaoting Ying, **Cong Xu**, Jianxin Wang. Graph-Based Stock Recommendation by Time-Aware Relational Attention Network. ACM Transactions on Knowledge Discovery from Data. 2022. (<font color=blue>TKDD, CCF B</font>)
 
-[Under review] Huiling Huang, Jianliang Gao, **Cong Xu** and Xiaoting Ying. Pattern Adaptive Specialist Network for Learning Trading Patterns in Stock Market. In Proceedings of the 31th ACM International Conference on Information & Knowledge Management. (<font face="微软雅黑" color=blue>CIKM '22, CCF B</font>)
+[[Paper](https://dl.acm.org/doi/10.1145/3498851.3499023)] Jianliang Gao, **Cong Xu**, Huiling Huang, Xiaoting Ying, Zhao Li. Predicting Price-Limit-Hitting Stocks with Hierarchical Graph Neural Network. In IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology. (<font face="微软雅黑" color=blue>WI-IAT'21, EI</font>)
+
+[Under review] Huiling Huang, Jianliang Gao, **Cong Xu** and Xiaoting Ying. Pattern Adaptive Specialist Network for Learning Trading Patterns in Stock Market. In Proceedings of the 31th ACM International Conference on Information & Knowledge Management. (<font face="微软雅黑" color=blue>CIKM'22, CCF B</font>)
 
 [Under review] Qiutong Li, Yanshen He, **Cong Xu**, Feng Wu, Jianliang Gao and Zhao Li. Dual-Augment Graph Neural Network for Fraud Detection. In Proceedings of the 31th ACM International Conference on Information & Knowledge Management. (<font face="微软雅黑" color=blue>CIKM '22, CCF B</font>)
 
