@@ -17,6 +17,7 @@ Email: [congxu@csu.edu.cn](congxu@csu.edu.cn)
 +  **Central South University**\
 B.S. in Data Science and Big Data Technology, from September 2016 to June 2020.
 
+
 ## <font color="#5e33bf">Research Interests</font>
 ***
 + Graph learning
@@ -28,7 +29,6 @@ B.S. in Data Science and Big Data Technology, from September 2016 to June 2020.
 ***
 + [Stock recommendation](https://csubigdata.com/limit/limit_prediction): The stock recommendation service are available.
 + [Stock screener](https://csubigdata.com/xgq/stocks): Our website "Stock screener" has been launched.
-
 
 
 ##  <font color="#5e33bf">Publications</font>
@@ -45,11 +45,26 @@ B.S. in Data Science and Big Data Technology, from September 2016 to June 2020.
 
 [Under review] Qiutong Li, Yanshen He, **Cong Xu**, Feng Wu, Jianliang Gao and Zhao Li. Dual-Augment Graph Neural Network for Fraud Detection. In Proceedings of the 31th ACM International Conference on Information & Knowledge Management. (<font face="微软雅黑" color=blue>CIKM '22, CCF B</font>)
 
+
 ##  <font color="#5e33bf">Honours</font>
 ***
+-Second Prize of Citi Financial Innovation Application Competition
+2021, Citigroup.
 
+-Second Prize of National Academic Scholarship
+2021, Central South University.
+
+-First Prize of National Academic Scholarship
+2020, Central South University.
+
+-First Prize of [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/index_en.html)
+2018, [China Society for Industrial and Applied Mathematics (CSIAM)](http://www.csiam.org.cn/).
+
+-First Prize of Hunan Competition Area in Contemporary Undergraduate Mathematical Contest in Modeling
+2018, The Education Department of Hunan Province
 
 
 ##  <font color="#5e33bf">Contact</font>
 Email: [congxu@csu.edu.cn](congxu@csu.edu.cn)
+
 Phone numbers: +(86) 15675833763
